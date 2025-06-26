@@ -1,6 +1,17 @@
-# 🚗 Vehicle Theft and Recovery Analysis (RJ - Brazil)
+# 🚗 Vehicle Theft and Recovery Analysis (Rio de Janeiro - Brazil)
 
 This project presents a visual and statistical analysis of **vehicle theft and recovery data** in the state of **Rio de Janeiro (Brazil)** from 2018 to 2023, using public data provided by the **ISP-RJ (Public Security Institute)**. The goal is to understand distribution trends and year-over-year averages using interactive visualizations.
+
+**Sampling:**
+A top 10% cutoff was applied to the values of each year to mitigate the impact of outliers. It is worth noting that, since the mode of the theft data is 1, no lower-end trimming was necessary.
+
+**Distribution Analysis:**
+A downward trend in vehicle theft cases is observed, with the overwhelming majority of records indicating only one victim per incident. Regarding recovery data, changes have been minimal over the past three years but consistently remain higher than theft numbers.
+
+**Statistical Analysis:**
+The data is highly concentrated around the mean, as standard deviation values are very close to the averages. This pattern remains consistent across all years, indicating stability in the trends of vehicle theft and recovery.
+
+![Final Result](image/final_result.png)
 
 ---
 
