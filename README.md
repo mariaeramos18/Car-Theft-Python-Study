@@ -11,6 +11,10 @@ A downward trend in vehicle theft cases is observed, with the overwhelming major
 **Statistical Analysis:**
 The data is highly concentrated around the mean, as standard deviation values are very close to the averages. This pattern remains consistent across all years, indicating stability in the trends of vehicle theft and recovery.
 
+<p align="center">
+  <img src="image/final_result.jpg" alt="Final Result" width="600">
+</p>
+
 ---
 
 ## 📊 What It Does
